@@ -36,7 +36,7 @@ export default class HomePage extends React.PureComponent {
           hola {this.state.nombre}
           <br />
           <Button onClick={this.cambiarNombre} type="primary">
-            Primary
+            Paises
           </Button>
         </h1>
         <HorizontalLogingForm />
